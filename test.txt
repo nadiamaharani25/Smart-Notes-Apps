@@ -1,0 +1,17 @@
+{
+    "Test": {
+        "tags": ["coding", "jsons"], 
+        "text": "Halo, ini adalah contoh notes tambahan satu untuk smart notes"
+    }, 
+
+    "Test Dua": {
+        "tags": ["hello", "world"], 
+        "text": "Hello, ini adalah test dua untuk smart notes application"
+    }, 
+
+    "Welcome!": {
+        "tags": ["good", "instructions"], 
+        "text": "This is the best note taking app in the world!"
+    },
+
+}
